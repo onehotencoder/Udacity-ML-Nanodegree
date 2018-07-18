@@ -13,4 +13,4 @@ February 28, 2018
 7. lightgbm
 
 ### Instructions
-There is a single jupyter notebook which contains all the detialed code along with Data exploration and EDA
+There is a single jupyter notebook which contains all the detailed code along with Data exploration and EDA
